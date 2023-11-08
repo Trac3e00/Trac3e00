@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minseochoi00&label=Profile%20views&color=0e75b6&style=flat" alt="minseochoi00" /> </p>
 
-- 🌱 I’m currently learning - **PowerShell, Python**
-
-- 👨‍💻 All of my projects are available at - [minseochoi.tech](minseochoi.tech)
+- 🌱 I’m currently actively learning - **PowerShell, Python**
 
 - 📫 How to reach me @ **minseo@minseochoi.tech**
 
-- 📄 Know about my experiences - [Resume](https://minseochoi.tech/resume)
+- 📄 Know about my experiences - [Resume](https://portfolio.minseochoi.tech/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
