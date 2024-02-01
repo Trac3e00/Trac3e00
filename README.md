@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently actively learning - **PowerShell, Python**
 
-- 📫 How to reach me @ **minseo@minseochoi.tech**
+- 📫 How to reach me @ **info@minseochoi.tech**
 
 - 📄 Know about my experiences - [Resume](https://portfolio.minseochoi.tech/resume)
 
