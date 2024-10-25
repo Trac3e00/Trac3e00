@@ -7,7 +7,7 @@
 
 - 📫 How to reach me @ **info@minseochoi.tech**
 
-- 📄 Know about my experiences - [Resume](https://portfolio.minseochoi.tech/resume)
+- 📄 Know about my experiences - [Resume](https://minseochoi.tech/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
