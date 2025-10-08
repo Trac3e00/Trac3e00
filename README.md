@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Minseo Choi</h1>
 <h3 align="center">Non-Developer who does coding just for fun.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minseochoi00&label=Profile%20views&color=0e75b6&style=flat" alt="minseochoi00" /> </p>
-
-- 🌱 I’m currently actively learning - **PowerShell, Python**
-
-- 📫 How to reach me @ **info@minseochoi.tech**
-
-- 📄 Know about my experiences - [Resume](https://pub-566b5a2152194bdcad4813108ab73bee.r2.dev/resume-2025.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
