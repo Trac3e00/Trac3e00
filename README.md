@@ -10,6 +10,7 @@
 - **[siem-detect](https://github.com/trac3r00/siem-detect)** — Dependency-light Sigma detection engine. Runs Sigma rules over syslog/nginx/auth/EVTX-JSON/CloudTrail, auto-maps to MITRE ATT&CK. 14 bundled rules, 30 passing tests, CI on 3.11/3.12.
 - **[phishing-analyzer](https://github.com/trac3r00/phishing-analyzer)** — Phishing `.eml` triage toolkit. RFC 5322 parsing, live SPF/DKIM/DMARC checks, IOC extraction, multi-signal risk scoring with VirusTotal + AbuseIPDB enrichment, and STIX 2.1 export for MISP/OpenCTI.
 - **[phish-triage](https://github.com/trac3r00/phish-triage)** — Phishing-email triage kit: `.eml` parsing, IOC enrichment, and 8 production detections (Splunk SPL + Sigma) mapped to MITRE ATT&CK.
+- **[bob-page](https://github.com/trac3r00/bob-page)** ([live](https://bob-page.pages.dev)) — Landing page for **Bob**, my autonomous AI agent on Hermes Agent. Edge-served on Cloudflare Pages & Workers; the `/api/status` endpoint is generated on demand and returns the agent's real fail-closed harness architecture (46 gates, 34 triggers, L0–L7 autonomy ladder).
 
 ## Focus
 
